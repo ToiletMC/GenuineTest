@@ -1,0 +1,7 @@
+name: GenuineTester
+version: '${project.version}'
+main: cn.cutemc.genuinetester.GenuineTester
+api-version: 1.19
+authors: [ lushangkan ]
+description: Test whether the player uses the genuine login.
+website: https://cutemc.cn
